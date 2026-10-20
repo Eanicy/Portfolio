@@ -38,7 +38,7 @@ CapstoneLens supports structured student proposal submissions, short pitch-video
 
 ### Thoughtful constraints
 
-The assessment deliberately avoids judging appearance, accent, confidence, voice quality, or pitch-production quality. It also treats missing search results as insufficient evidence—not proof of novelty—and sends only minimal technical search terms to OpenAlex.
+The assessment deliberately avoids judging appearance, accent, confidence, voice quality, or pitch-production quality. It also treats missing search results as insufficient evidence not proof of novelty and sends only minimal technical search terms to OpenAlex.
 
 ---
 
