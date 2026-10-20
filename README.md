@@ -2,7 +2,7 @@
 
 ## Edwin N. Allanic Jr.
 
-WeI’m a Computer Science student who enjoys turning ideas into practical, responsible AI applications. From making research assessment more evidence-based to helping farmers identify crop diseases and exploring earthquake detection through video, I build projects that connect technology with real-world needs. I’m always learning, experimenting, and excited to create useful solutions through web development, machine learning, and computer vision.
+I’m a Computer Science student who enjoys turning ideas into practical, responsible AI applications. From making research assessment more evidence-based to helping farmers identify crop diseases and exploring earthquake detection through video, I build projects that connect technology with real-world needs. I’m always learning, experimenting, and excited to create useful solutions through web development, machine learning, and computer vision.
 
 ## Featured Projects
 
